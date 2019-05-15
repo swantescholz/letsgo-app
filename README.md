@@ -5,4 +5,4 @@ This game is unfinished. While a basic, MCTS-based AI is already functional, a s
 
 ## Main game screen:
 
-![alt]("screenshot1.jpg")
+![alt](screenshot1.jpg)
